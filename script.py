@@ -2,8 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+Hi I am a filter bot made for movie house group:)
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -16,9 +15,10 @@ See <i>/help</i> for commands and more details.</b>
 <b>Basic Commands;</b>
 
 /start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
-
+/help - To get help
+/about - Know about me
+/status  -  Shows current status of your bot (Auth User Only)
+/id  -  Shows ID information
 
 <b>Filter Commands;</b>
 
@@ -52,9 +52,9 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Movie House Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @DhyanKN   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
